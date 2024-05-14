@@ -1,5 +1,5 @@
 {
-    "window_title": "Forex Pair Daily Close Price",
+    "window_title": "　",
     "window_size": "400x300",
     "frame_padding_x": 10,
     "frame_padding_y": 10,
@@ -63,10 +63,10 @@
     "end_day_entry_width": 3,
     "end_day_entry_column": 5,
     "end_day_entry_row": 0,
-    "button_text": "Show Chart",
+    "button_text": "チャートを表示する",
     "button_column": 0,
     "button_row": 4,
     "button_columnspan": 2,
     "button_padding_y": 10,
-    "save_button_text": "Save Chart"
+    "save_button_text": "保存する"
 }
